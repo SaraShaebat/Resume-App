@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\core\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\core\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\backendpart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\backendpart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\core\\automapper\\automapperconfigpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\core\\automapper\\automapperconfigpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|c:\\users\\e-life center\\desktop\\full-stack-rm-project\\backendpart\\backendpart\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D596DA4-FAE7-4510-A7E0-A87628263CE1}|BackendPart\\BackendPart.csproj|solutionrelative:backendpart\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Program.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Program.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Program.cs",
+              "RelativeToolTip": "BackendPart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:09:34.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Core\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Entities\\Company.cs",
+              "RelativeToolTip": "BackendPart\\Core\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:07:14.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackendPart.csproj",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\BackendPart.csproj",
+              "RelativeDocumentMoniker": "BackendPart\\BackendPart.csproj",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\BackendPart.csproj",
+              "RelativeToolTip": "BackendPart\\BackendPart.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T07:31:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "BackendPart\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:16:17.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Controllers\\JobController.cs",
+              "RelativeToolTip": "BackendPart\\Controllers\\JobController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:16:16.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "BackendPart\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:16:11.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperConfigPro.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\AutoMapper\\AutoMapperConfigPro.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Core\\AutoMapper\\AutoMapperConfigPro.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\AutoMapper\\AutoMapperConfigPro.cs",
+              "RelativeToolTip": "BackendPart\\Core\\AutoMapper\\AutoMapperConfigPro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:10:21.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BackendPart\\Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:07:30.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Core\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Entities\\Candidate.cs",
+              "RelativeToolTip": "BackendPart\\Core\\Entities\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:06:14.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "RelativeToolTip": "BackendPart\\Core\\Dtos\\Candidate\\CandidateGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:05:21.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandidateCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "RelativeDocumentMoniker": "BackendPart\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "ToolTip": "C:\\Users\\e-life center\\Desktop\\Full-Stack-Rm-Project\\BackendPart\\BackendPart\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "RelativeToolTip": "BackendPart\\Core\\Dtos\\Candidate\\CandidateCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:04:41.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
